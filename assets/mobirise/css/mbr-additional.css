@@ -1860,6 +1860,18 @@ body {
     font-size: 0.8rem;
   }
 }
+.cid-r098MzEMHH {
+  background: #ffffff;
+}
+.cid-r098MzEMHH .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-r098MzEMHH .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r08JnP1fWr {
   padding-top: 90px;
   padding-bottom: 90px;
